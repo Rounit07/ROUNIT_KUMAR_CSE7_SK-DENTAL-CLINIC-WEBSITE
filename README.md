@@ -38,6 +38,8 @@ __5. Run the Website__
 Just open the index.html file in any browser:
 Right-click index.html → Open with → Choose your browser.
 
-  __PRESENTATION VIDEO LINK__
-  https://drive.google.com/file/d/18_Js2Gh5VZqQKg8cfkAXgAwzTQHT81-l/view?usp=sharing
+  __VIDEO LINKS__
+-  __PPT:-__ https://drive.google.com/file/d/18_Js2Gh5VZqQKg8cfkAXgAwzTQHT81-l/view?usp=sharing
+-  __WEBSITE:-__ https://drive.google.com/file/d/1W2v4s-i5xb6kZSjy5Soysk635urwG84V/view?usp=sharing
+  
 
