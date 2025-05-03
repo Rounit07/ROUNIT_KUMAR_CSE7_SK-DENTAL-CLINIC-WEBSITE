@@ -25,10 +25,6 @@ Ensure you have the following installed on your system:
 - Code editor (e.g., VS Code)
 - Web browser
 
-  __PRESENTATION VIDEO LINK__
-  https://drive.google.com/file/d/18_Js2Gh5VZqQKg8cfkAXgAwzTQHT81-l/view?usp=sharing
-
-
 __2. Clone the Repository__
 Open a terminal (Command Prompt or Git Bash) and run:
 
@@ -41,3 +37,7 @@ This opens the project in VS Code if installed.
 __5. Run the Website__
 Just open the index.html file in any browser:
 Right-click index.html → Open with → Choose your browser.
+
+  __PRESENTATION VIDEO LINK__
+  https://drive.google.com/file/d/18_Js2Gh5VZqQKg8cfkAXgAwzTQHT81-l/view?usp=sharing
+
